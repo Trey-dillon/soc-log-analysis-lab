@@ -80,7 +80,6 @@ Analysis:
 - Identified affected accounts
 - Determined potential causes
 
-
 ---
 
 ## Unauthorized Access Review
@@ -118,6 +117,8 @@ Future additions:
 - Log investigations
 - Alert examples
 - Investigation reports
+
+Screenshots will be added as the lab expands.
 
 ---
 
