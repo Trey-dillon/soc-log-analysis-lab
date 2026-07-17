@@ -14,7 +14,7 @@ The goal of this lab is to develop skills in security monitoring, threat detecti
 
 ---
 
-# 🏗️ Lab Environment
+# Lab Environment
 
 ## Systems
 
@@ -31,7 +31,7 @@ The goal of this lab is to develop skills in security monitoring, threat detecti
 
 ---
 
-# 🔍 Skills Practiced
+# Skills Practiced
 
 ## Windows Event Log Analysis
 
@@ -66,7 +66,7 @@ Practiced:
 
 ---
 
-# 🧪 Investigation Scenarios
+# Investigation Scenarios
 
 ## Failed Login Investigation
 
@@ -98,7 +98,7 @@ Investigation steps:
 
 ---
 
-# 📊 SIEM Concepts
+# SIEM Concepts
 
 Studied:
 
@@ -110,7 +110,7 @@ Studied:
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 Future additions:
 
@@ -121,18 +121,7 @@ Future additions:
 
 ---
 
-# 🎯 Skills Demonstrated
-
-✅ SOC Operations  
-✅ Log Analysis  
-✅ Windows Event Logs  
-✅ Security Monitoring  
-✅ Incident Investigation  
-✅ Threat Detection Fundamentals  
-
----
-
-# 🚀 Future Improvements
+# Future Improvements
 
 - Add Splunk dashboards
 - Add Microsoft Sentinel practice
