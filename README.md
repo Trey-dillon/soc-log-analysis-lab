@@ -1,4 +1,4 @@
-# 🛡️ Splunk SIEM Detection & Incident Investigation Lab
+# 🛡️ SOC Analyst Log Analysis Lab
 
 ![SOC](https://img.shields.io/badge/Security%20Operations-SOC-blue?style=for-the-badge)
 ![SIEM](https://img.shields.io/badge/SIEM-Fundamentals-orange?style=for-the-badge)
