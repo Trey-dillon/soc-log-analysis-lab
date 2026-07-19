@@ -1,7 +1,6 @@
 # 🛡️ Splunk SIEM Detection & Incident Investigation Lab
 
 ![SOC](https://img.shields.io/badge/Security%20Operations-SOC-blue?style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-Event%20Logs-0078D6?style=for-the-badge&logo=windows)
 ![SIEM](https://img.shields.io/badge/SIEM-Fundamentals-orange?style=for-the-badge)
 
 ---
